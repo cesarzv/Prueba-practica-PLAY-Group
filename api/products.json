@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "description": "lorem ipsum",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1280px-Placeholder_view_vector.svg.png"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "description": "lorem ipsumdsdsd",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1280px-Placeholder_view_vector.svg.png"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "description": "lorem ipsuam",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1280px-Placeholder_view_vector.svg.png"
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "description": "lorem ipsugfgfgfgfgm",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1280px-Placeholder_view_vector.svg.png"
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "description": "lorem ipsumfgdfgdfgdfgdfgdfg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/1280px-Placeholder_view_vector.svg.png"
+  }
+]
